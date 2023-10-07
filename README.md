@@ -26,3 +26,12 @@ If you are developing a production application, we recommend updating the config
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+## Links
+
+- [Google Fonts API を使ってみる - Google for Developers](https://developers.google.com/fonts/docs/getting_started?hl=ja#Subsets)
+- [CSS API の更新 - Google Fonts - Google for Developers](https://developers.google.com/fonts/docs/css2?hl=ja)
+- [マテリアル シンボル ガイド - Google Fonts - Google for Developers](https://developers.google.com/fonts/docs/material_symbols?hl=ja)
+- [Reduce web font size](https://web.dev/reduce-webfont-size/)
+- [Introduction to variable fonts on the web](https://web.dev/variable-fonts/)
+- [Speed Up Google Fonts – Harry Roberts – Web Performance Consultant](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
